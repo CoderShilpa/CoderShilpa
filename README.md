@@ -54,9 +54,8 @@
 
 ### 📈 GitHub Stats
 
-```markdown
 <div align="center">
-    <img src="[https://github-readme-stats.vercel.app/api?username=CoderShilpa&show_icons=true&theme=onedark&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=CoderShilpa&show_icons=true&theme=onedark&hide_border=true&count_private=true)" alt="Shilpa's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=CoderShilpa&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Shilpa's GitHub Stats"/>
     <br>
-    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=CoderShilpa&layout=compact&theme=onedark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderShilpa&layout=compact&theme=onedark&hide_border=true)" alt="Shilpa's Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderShilpa&layout=compact&theme=onedark&hide_border=true" alt="Shilpa's Top Languages"/>
 </div>
