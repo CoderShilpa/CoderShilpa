@@ -15,7 +15,7 @@
 
 ---
 
-###  Tech Stack
+### 💻 My Highlighted Tech Stack (Full Spectrum)
 
 <p align="center">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
@@ -38,8 +38,11 @@
     <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
     <img src="https://img.shields.io/badge/JWT-DB0048?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
     <img src="https://img.shields.io/badge/Nodemon-76D04C?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon"/>
+    <br>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <br>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
@@ -52,10 +55,11 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats (Blue Theme)
 
+This section is **fixed** and uses the `theme=radical` parameter for blue cards.
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=CoderShilpa&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Shilpa's GitHub Stats"/>
+    <img src="[https://github-readme-stats.vercel.app/api?username=CoderShilpa&show_icons=true&theme=radical&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=CoderShilpa&show_icons=true&theme=radical&hide_border=true&count_private=true)" alt="Shilpa's GitHub Stats"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderShilpa&layout=compact&theme=onedark&hide_border=true" alt="Shilpa's Top Languages"/>
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=CoderShilpa&layout=compact&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderShilpa&layout=compact&theme=radical&hide_border=true)" alt="Shilpa's Top Languages"/>
 </div>
