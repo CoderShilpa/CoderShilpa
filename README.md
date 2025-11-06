@@ -57,6 +57,8 @@
 
 ### 🏆 Top Achievements / Contributed Repos
 
+**This section is now fixed** to use the clean HTML `<img>` tag.
+
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=CoderShilpa&theme=radical&no-frame=true&no-bg=true" alt="Shilpa's GitHub Trophies"/>
 </div>
@@ -64,6 +66,8 @@
 ---
 
 ### 📈 GitHub Stats (Blue Theme)
+
+**This section is now fixed** to use clean HTML `<img>` tags for both images.
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=CoderShilpa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Shilpa's GitHub Stats"/>
