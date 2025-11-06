@@ -15,7 +15,7 @@
 
 ---
 
-### 💻 My Highlighted Tech Stack (Full Spectrum)
+###  Tech Stack
 
 <p align="center">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
