@@ -41,6 +41,8 @@
     <br>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <br>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
@@ -49,15 +51,21 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 Top Achievements / Contributed Repos
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=CoderShilpa&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Shilpa's GitHub Stats"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=CoderShilpa&theme=radical&no-frame=true&no-bg=true" alt="Shilpa's GitHub Trophies"/>
+</div>
+
+---
+
+### 📈 GitHub Stats 
+<div align="center">
+    <img src="[https://github-readme-stats.vercel.app/api?username=CoderShilpa&show_icons=true&theme=radical&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=CoderShilpa&show_icons=true&theme=radical&hide_border=true&count_private=true)" alt="Shilpa's GitHub Stats"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderShilpa&layout=compact&theme=onedark&hide_border=true" alt="Shilpa's Top Languages"/>
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=CoderShilpa&layout=compact&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderShilpa&layout=compact&theme=radical&hide_border=true)" alt="Shilpa's Top Languages"/>
 </div>
