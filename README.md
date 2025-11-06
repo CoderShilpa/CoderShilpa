@@ -17,8 +17,6 @@
 
 ### 💻 My Highlighted Tech Stack (Full Spectrum)
 
-This section now includes every skill you have declared, using badges for maximum visual appeal.
-
 <p align="center">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -40,10 +38,8 @@ This section now includes every skill you have declared, using badges for maximu
     <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
     <img src="https://img.shields.io/badge/JWT-DB0048?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
     <img src="https://img.shields.io/badge/Nodemon-76D04C?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon"/>
-    <br>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <br>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
@@ -57,8 +53,6 @@ This section now includes every skill you have declared, using badges for maximu
 ---
 
 ### 📈 GitHub Stats
-
-These cards use your username to showcase your contributions and top languages dynamically.
 
 ```markdown
 <div align="center">
