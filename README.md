@@ -57,8 +57,6 @@
 
 ### 🏆 Top Achievements / Contributed Repos
 
-**This section is now fixed** to use the clean HTML `<img>` tag.
-
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=CoderShilpa&theme=radical&no-frame=true&no-bg=true" alt="Shilpa's GitHub Trophies"/>
 </div>
@@ -66,8 +64,6 @@
 ---
 
 ### 📈 GitHub Stats (Blue Theme)
-
-**This section is now fixed** to use clean HTML `<img>` tags for both images.
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=CoderShilpa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Shilpa's GitHub Stats"/>
@@ -79,11 +75,10 @@
 
 ### 📧 Connect with Me
 
+```markdown
 <div align="center">
     [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shilpa-upadhyay2004/)
     [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upadhyayshilpa57@gmail.com)
+    
+    <p>Let's connect and build something great together! Happy coding!</p>
 </div>
-
-<p align="center">
-    Let's connect and build something great together! Happy coding!
-</p>
