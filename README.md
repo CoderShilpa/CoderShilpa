@@ -63,9 +63,23 @@
 
 ---
 
-### 📈 GitHub Stats 
+### 📈 GitHub Stats (Blue Theme)
+
 <div align="center">
-    <img src="[https://github-readme-stats.vercel.app/api?username=CoderShilpa&show_icons=true&theme=radical&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=CoderShilpa&show_icons=true&theme=radical&hide_border=true&count_private=true)" alt="Shilpa's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=CoderShilpa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Shilpa's GitHub Stats"/>
     <br>
-    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=CoderShilpa&layout=compact&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderShilpa&layout=compact&theme=radical&hide_border=true)" alt="Shilpa's Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderShilpa&layout=compact&theme=radical&hide_border=true" alt="Shilpa's Top Languages"/>
 </div>
+
+---
+
+### 📧 Connect with Me
+
+<div align="center">
+    [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shilpa-upadhyay2004/)
+    [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upadhyayshilpa57@gmail.com)
+</div>
+
+<p align="center">
+    Let's connect and build something great together! Happy coding!
+</p>
