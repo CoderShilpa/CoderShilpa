@@ -77,6 +77,8 @@
 
 <div align="center">
     [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shilpa-upadhyay2004/)
+    &nbsp;&nbsp;
     [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upadhyayshilpa57@gmail.com)
-    <p>Let's connect and build something great together! Happy coding!</p>
+    <br><br>
+    Let's connect and build something great together! Happy coding!
 </div>
